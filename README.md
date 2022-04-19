@@ -2,7 +2,7 @@
 
 ![image](https://i.rtings.com/assets/pages/BZfoW14G/best-4k-gaming-tv-medium.jpg)
 
-Authors: [Olamide Olayinka](https://www.linkedin.com/in/olamideholayinka/)
+Author: [Olamide Olayinka](https://www.linkedin.com/in/olamideholayinka/)
 
 ## Business Problem
 Stakeholder: Bluepoint Games 
@@ -15,29 +15,29 @@ The Date comes form the Video Games Data set vid Data.world https://data.world/s
 
 Before moving on to the modeling, I dropped the ratings column due to it not being relevant to the business probelm at hand. Futhermore we I went on to create new columns for binning the user score and the global sales of games.  Specifying a range, I was able to create a these columns contain the value of "Low" for Sales and scores and 'High' for the higher scores and higer sales. These columns where later converted in binary columns 0 == "Low" and 1== "High'. This allowed for a smooth modeling process with Binary classification. 
 
-### Methods
-
 
 ## Modeling
-
+Several Models were utilizrd. With the target of the model being 'bin_sales'(The Bin of Global Sales column), this was a binary classification problem. 
+Some models utilzied were Random Tree Forrest, Logistic Regression, Decision Tree Cassifer and Naive Beyes. The goal of the models is to correctly identify which entries fall within the 'low' and 'high' category of binned Global Sales. 
 
 
 ### Evaluation
+The evualation metric used was F1. I chose F1 due to it being a more balanced evaluation metric. Balanced between recall and precison. This means the score takes into account the models ability to identify False Positives and False Negatives. This aligns with the business probelm ensuring the model properly identifies which games would beenfit the most from being remastered for the stakeholder. 
+Compared to the Dummy Classifer Model, the Logisitic Regression model scored a F1 score of 97%. As well as a AUC score of 1. 
+![image](https://i.imgur.com/NsdjFOc.png)
 
 
 
-![image]()
 
 
+## Conclusions and Reccomendation
+Logistic Regression Model turned out to be the best model.
 
+In addition, we found that Platform and Shooter games outperfrmed other genres.
 
+Games reelase between 2006 to 2008 contained the higehest user scores.
 
-## Conclusions 
-
-
-
-## Recommendations
-
+Nintendo has some of the hughest grossing games and highest selling platforms. Consider remastering a nintendo games.
 
 
 ## Next Steps
