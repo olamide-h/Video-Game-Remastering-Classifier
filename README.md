@@ -14,7 +14,10 @@ The Gaming industry is a huge indutry with it's marjet sizd currently valued at 
 ## Data and Preparation
 The Date comes form the Video Games Data set vid Data.world https://data.world/sumitrock/video-games-sales. The Data set contains 16,719 entries as formatted in 16 columns. It contained the name of the Game along with the corrisponding Sales by region and gloably, as well as the other descriptive columns such as the Genre, Publisher, Rating, Developer and the Year of Release. Moreoevr, it also conatined User Score, Critic Score, User Count and Critic Count.With User score being the score a game user rated the game and the critic score being he score assigned by critics and publications.
 
-Before moving on to the modeling, I dropped the ratings column due to it not being relevant to the business probelm at hand. Futhermore we I went on to create new columns for binning the user score and the global sales of games.  Specifying a range, I was able to create a these columns contain the value of "Low" for Sales and scores and 'High' for the higher scores and higer sales. These columns where later converted in binary columns 0 == "Low" and 1== "High'. This allowed for a smooth modeling process with Binary classification. 
+Before moving on to the modeling, I dropped the ratings column due to it not being relevant to the business probelm at hand. Futhermore we I went on to create new columns for binning the user score and the global sales of games.  Specifying a range, I was able to create a these columns contain the value of "Low" for Sales and scores and 'High' for the higher scores and higer sales. These columns where later converted in binary columns 0 == "Low" and 1== "High'. This allowed for a smooth modeling process with Binary classification.
+
+![image](https://i.imgur.com/5ln8L4B.png)
+
 
 
 ## Modeling
