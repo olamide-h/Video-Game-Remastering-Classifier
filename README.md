@@ -43,6 +43,18 @@ Nintendo has some of the hughest grossing games and highest selling platforms. C
 ## Next Steps
 As for Next Steps, I would like to narow down a specifc criteria for how often after a game's initial release, should it be remastered. So based of the year of intial release, as well as the cycle of time it has been in circulation and it's user score and reception. In addition as I looked at Global Sales, I would like to go into Localized data and determined the games worthy of remastering based on it's sales and score per region. 
 
-## For More Information
-View the full analysis via the [Jupyter Notebook](https://github.com/olamide-h/Capstone/blob/main/EDA.ipynb).
+## Repository Structure
+├── [data/]()    ------------------------------------->
+
+├── [images/]() -------------------------------------->
+
+├── [.gitignore]() ---------------------------------> .gitignore used for the project.
+
+├── [Final_Notebook - Jupyter Notebook.pdf]()            --->
+
+├── [Main Notebook.ipynb](https://github.com/olamide-h/Capstone/blob/main/Main%20Notebook.ipynb)              --------------------->
+
+├── [Video Game Classifer Presentation](https://github.com/olamide-h/Capstone/blob/main/Capstone.pdf)              -------------------------->
+
+├── [README.md](https://github.com/olamide-h/Capstone) ------------------------------>
 
