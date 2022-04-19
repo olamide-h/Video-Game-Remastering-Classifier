@@ -1,4 +1,4 @@
-# Video Games Remastering Classifier 
+# Video Game Remastering Classifier 
 
 
 ![image](https://i.rtings.com/assets/pages/BZfoW14G/best-4k-gaming-tv-medium.jpg)
