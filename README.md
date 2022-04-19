@@ -21,7 +21,7 @@ Before moving on to the modeling, I dropped the ratings column due to it not bei
 
 
 ## Modeling
-Several Models were utilizrd. With the target of the model being 'bin_sales'(The Bin of Global Sales column), this was a binary classification problem. 
+Several Models were utilized. With the target of the model being 'bin_sales'(The Bin of Global Sales column), this was a binary classification problem. 
 Some models utilzied were Random Tree Forrest, Logistic Regression, Decision Tree Cassifer and Naive Beyes. The goal of the models is to correctly identify which entries fall within the 'low' and 'high' category of binned Global Sales. 
 
 
