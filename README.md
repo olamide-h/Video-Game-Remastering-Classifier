@@ -50,7 +50,7 @@ As for Next Steps, I would like to narow down a specifc criteria for how often a
 ## Repository Structure
 ├── [data/](https://github.com/olamide-h/Video-Game-Remastering-Classifier/tree/main/Data)    -------------------------------------> Dataset
 
-├── [Main Notebook.ipynb](https://github.com/olamide-h/Video-Game-Remastering-Classifier/blob/main/Video%20Game%20Remastering%20Notebook.ipynb)              ---------------------> Project Jupyter Notebook
+├── [Video Game Remastering Classifier.ipynb](https://github.com/olamide-h/Video-Game-Remastering-Classifier/blob/main/Video%20Game%20Remastering%20Notebook.ipynb)              ---------------------> Project Jupyter Notebook
 
 ├── [Video Game Classifer Presentation](https://github.com/olamide-h/Video-Game-Remastering-Classifier/blob/main/Video%20Game%20Classifier%20Presentation-2.pdf)  -------> Presentation PDF
 
