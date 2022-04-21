@@ -34,14 +34,12 @@ Compared to the Dummy Classifer Model, the Logisitic Regression model scored a F
 
 
 
-## Conclusions and Reccomendation
+## Conclusions and Reccomendations
 Logistic Regression Model turned out to be the best model.
 
-In addition, we found that Platform and Shooter games outperfrmed other genres.
-
-Games reelase between 2006 to 2008 contained the higehest user scores.
-
-Nintendo has some of the hughest grossing games and highest selling platforms. Consider remastering a nintendo games.
+As for Reccomendations. I would like to reccomend creating a thresshold for Remastering Games based on Release Year.
+Partering with Ninetndo and Playstation as they had the highest games in global sales.
+Usieng Nostelgia and retro as Campain to marekt to users who played these games growing up. 
 
 
 ## Next Steps
